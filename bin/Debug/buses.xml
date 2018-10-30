@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Destinations>
+  <Destination>
+    <City>Minsk</City>
+    <Buses>
+      <Bus>
+        <Date>30.10.2018</Date>
+        <FreePlaces>4</FreePlaces>
+      </Bus>
+      <Bus>
+        <Date>10.11.2018</Date>
+        <FreePlaces>4</FreePlaces>
+      </Bus>
+      <Bus>
+        <Date>15.11.2018</Date>
+        <FreePlaces>7</FreePlaces>
+      </Bus>
+    </Buses>
+  </Destination>
+  <Destination>
+    <City>Prague</City>
+    <Buses>
+      <Bus>
+        <Date>12.11.2018</Date>
+        <FreePlaces>5</FreePlaces>
+      </Bus>
+      <Bus>
+        <Date>13.11.2018</Date>
+        <FreePlaces>3</FreePlaces>
+      </Bus>
+    </Buses>
+  </Destination>
+</Destinations>

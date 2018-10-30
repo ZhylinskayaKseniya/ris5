@@ -1,0 +1,7 @@
+C:\Users\k1090\Downloads\RisLab5\bin\Debug\RisLab5.exe.config
+C:\Users\k1090\Downloads\RisLab5\bin\Debug\RisLab5.exe
+C:\Users\k1090\Downloads\RisLab5\bin\Debug\RisLab5.pdb
+C:\Users\k1090\Downloads\RisLab5\obj\Debug\RisLab5.csprojAssemblyReference.cache
+C:\Users\k1090\Downloads\RisLab5\obj\Debug\RisLab5.csproj.CoreCompileInputs.cache
+C:\Users\k1090\Downloads\RisLab5\obj\Debug\RisLab5.exe
+C:\Users\k1090\Downloads\RisLab5\obj\Debug\RisLab5.pdb

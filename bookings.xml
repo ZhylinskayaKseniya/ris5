@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookings>
+  <Booking>
+    <City>Minsk</City>
+    <Date>12.10.2018</Date>
+    <Name>Kate</Name>
+    <Surname>Martsinkevich</Surname>
+    <Phone>7087820</Phone>
+    <Serie>MP</Serie>
+    <Number>346567</Number>
+  </Booking>
+</bookings>

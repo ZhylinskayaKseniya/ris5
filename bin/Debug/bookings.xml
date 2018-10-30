@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookings>
+  <Booking>
+    <City>Vilnius</City>
+    <Date>13.10.2018</Date>
+    <Name>Kseniya</Name>
+    <Surname>Zhylinskaya</Surname>
+    <Phone>80291090898</Phone>
+    <Serie>MP</Serie>
+    <Number>3320781</Number>
+  </Booking>
+</bookings>
