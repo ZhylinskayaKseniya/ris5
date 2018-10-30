@@ -18,7 +18,7 @@ namespace RisLab5
 
         static void bookBus()
         {
-            Console.WriteLine("Hello! Pick up a destination from the list below: ");
+            Console.WriteLine("!Select a destination from the list below: ");
 
             XElement root = XElement.Load("buses.xml");
             IEnumerable<XElement> buses = from el in root.Elements("Destination")
@@ -32,7 +32,7 @@ namespace RisLab5
             XElement picked = buses.ElementAt(int.Parse(Console.ReadLine()) - 1);
             string dest = picked.Element("City").Value;
 
-            Console.WriteLine("Hello! Pick up a time from the list below: ");
+            Console.WriteLine("Select a time from the list below: ");
 
             IEnumerable<XElement> times = (from el in root.Elements("Destination")
                                            where (string)el.Element("City") == dest
@@ -66,7 +66,7 @@ namespace RisLab5
         {
             Console.WriteLine("Your Name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Your Surame: ");
+            Console.WriteLine("Your Surname: ");
             string surname = Console.ReadLine();
             Console.WriteLine("Your Phone Number: ");
             string phone = Console.ReadLine();
